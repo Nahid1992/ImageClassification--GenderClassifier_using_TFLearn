@@ -1,4 +1,4 @@
-# ImageClassification
+# Image Classification
 ### Gender Classifier
 A python implemntation of Gender Classification using Convolutional Neural Network. Only two Convolutional Layer was enough for this classifier. This project was built on TFLearn. First tried training with lots of hidden layers (exp: alexnet or own-architech). The performance was not so much impressive. But applying only two conv layer, the performance started to grow rapidly. Data Augmentation was not needed as the number of samples chosen from the dataset was enough.   
 
