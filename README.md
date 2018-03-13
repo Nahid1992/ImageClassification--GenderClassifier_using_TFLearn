@@ -1,6 +1,6 @@
 # ImageClassification
 ### Gender Classifier
-A Gender Classifier was built using only Convolutional Neural Network. Only two Convolutional Layer was enough for this classifier. This project was built on TFLearn.
+A Gender Classifier was built using only Convolutional Neural Network. Only two Convolutional Layer was enough for this classifier. This project was built on TFLearn. First tried training with lots of hidden layers (exp: alexnet or own-architech). The performance was not so much impressive. But trying with only two conv layer the performance started to grow rapidly. Data Augmentation was not need as number of samples chosen from the dataset was good enough.   
 
 ### Database
 The gender imageset was downloaded from [CACD](http://bcsiriuschen.github.io/CARC/) dataset. 
