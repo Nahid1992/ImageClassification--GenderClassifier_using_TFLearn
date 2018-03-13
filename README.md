@@ -10,7 +10,7 @@ The gender imageset was downloaded from [CACD](http://bcsiriuschen.github.io/CAR
 	Testing Set = 12,000 images;
 	
 ### Data Preparation
-Each CACD Face images were prepared by running Viola Jones [Face detector](https://en.wikipedia.org/wiki/Viola%E2%80%93Jones_object_detection_framework).
+Each CACD Face images were prepared by running [Viola Jones Face detector](https://www.mathworks.com/help/vision/ref/vision.cascadeobjectdetector-system-object.html).
 Implementation of Viola Jones is not provided in this repository. This was done earlier one of my project using MatLab. 
 
 ### Dependencies
