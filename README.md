@@ -6,8 +6,8 @@ A Gender Classifier was built using only Convolutional Neural Network. Only two 
 The gender imageset was downloaded from [CACD](http://bcsiriuschen.github.io/CARC/) dataset. 
 
 	Each Image Size = 128 X 128
-	Training Set = 28,000 images;
-	Testing Set = 12,000 images;
+	Training Set = 28,000 images
+	Testing Set = 12,000 images
 	
 ### Data Preparation
 Each CACD Face images were prepared by running [Viola Jones Face detector](https://www.mathworks.com/help/vision/ref/vision.cascadeobjectdetector-system-object.html).
